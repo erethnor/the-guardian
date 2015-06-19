@@ -1,0 +1,19 @@
+{
+  "name": "guardian-news-loader",
+  "version": "0.0.0",
+  "authors": [
+    "Dario De Bastiani <dario.debastiani@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "promise-polyfill": "~2.0.2",
+    "fetch": "~0.9.0"
+  }
+}
